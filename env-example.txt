@@ -1,0 +1,12 @@
+# .env.example
+# Walrus RPC Configuration
+REACT_APP_WALRUS_RPC_URL=https://walrus-testnet-rpc.mystenlabs.com
+
+# Sui Configuration
+REACT_APP_SUI_RPC_URL=https://fullnode.testnet.sui.io
+
+# Optional: Seal Configuration
+REACT_APP_SEAL_ENABLED=true
+
+# API Keys (if needed)
+REACT_APP_API_KEY=your_api_key_here
