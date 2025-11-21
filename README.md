@@ -307,7 +307,7 @@ Show Recommendations
 
 ## 👥 Team
 
-- Your Name (@github_username)
+- Your Name (@VAWGG)
 
 ## 📝 License
 
@@ -324,8 +324,8 @@ MIT License
 
 For issues or questions:
 
-- 📧 **Email:** your_email@example.com
-- 🐛 **GitHub Issues:** [Open an issue](https://github.com/YOUR_USERNAME/wellness-journal-haulout/issues)
+- 📧 **Email:** tuanphong211105@gmail.com
+- 🐛 **GitHub Issues:** [Open an issue](https://github.com/VAWGG/wellness-journal-haulout/issues)
 - 📖 **Documentation:** Check existing docs in `/docs` folder
 
 ## 🔮 Future Work / On-chain Production Plan
